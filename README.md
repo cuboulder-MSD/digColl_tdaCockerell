@@ -39,7 +39,7 @@ DCMI Type of the item. Type terms for this collection include: Text; MovingImage
 ### TypeLink
 URI for the DCMI Type.
 ### Format
-Format of the item, using the vocabulary of the Getty Art & Architectural Thesaurus [(AAT)]((http://vocab.getty.edu/aat). Format terms frequently seen in the collection include: letters (correspondence); motion pictures (visual works)
+Format of the item, using the vocabulary of the [Getty Art & Architectural Thesaurus]((http://vocab.getty.edu/aat). Format terms frequently seen in the collection include: letters (correspondence); motion pictures (visual works)
 ### FormatLink
 URI for the AAT Format.
 ### Coverage
