@@ -27,31 +27,31 @@ Higher classification of the described or pictured specimen in the work.
 ### Higher Classification Source
 Source of the Higher Classification, likely derived from either the Global Biodiversity Information Facility (GBIF) or provided as recorded in the ARCTOS database. The Scientific Name and Higher Classification are not updated on a regular basis, and are as accurate as possible at the time the digitized item was cataloged.
 ### Description
-Additional notes or description of the item. May contain cataloger's notes as deemed relevant.
+Additional notes or description of the content of the item. May contain cataloger's notes as deemed relevant. Notes for this collection specify the box and folder number the item is stored in.
 ### DescriptionLink
 URI for the description.
 ### Date
-Date of the item.
+Date the item was created and issued.
 ### DateLink
 URI for the Date.
 ### Type
-DCMI Type of the item.
+DCMI Type of the item. Type terms for this collection include: Text; MovingImage
 ### TypeLink
 URI for the DCMI Type.
 ### Format
-Format of the item, using the vocabulary of the Art & Architectural Thesaurus, published by the Getty (http://vocab.getty.edu/aat)
+Format of the item, using the vocabulary of the Getty Art & Architectural Thesaurus [(AAT)]((http://vocab.getty.edu/aat). Format terms frequently seen in the collection include: letters (correspondence); motion pictures (visual works)
 ### FormatLink
 URI for the AAT Format.
 ### Coverage
-Geographic location(s) relevant to the item are listed and controlled.
+Geographic location(s) relevant to the item are listed and controlled. Some coverage terms used in the collection include: Florissant Fossil Beds National Monument (Colo.)
 ### CoverageLink
 URI for the Geographic location(s)
 ### Subject
-Library of Congress Subject Headings (LCSH) relevant to the item.
+Library of Congress Subject Headings (LCSH) relevant to the item. Frequently used headings include: [Naturalists--Colorado](http://id.loc.gov/authorities/subjects/sh85090273); [Paleontology--Colorado--Teller County](http://id.loc.gov/authorities/subjects/sh85097123)
 ### SubjectLink
 URI for the LCSH.
 ### Identifier
-Identifier for the item. Typically the file name.
+Identifier for the item. Typically the file name. Example: narv_cockerellFlorissant_001_019_001.pdf
 ### IdentifierLink
 Linking information for the Identifier.
 ### Identifier ARK
@@ -63,15 +63,19 @@ Source from which the item was derived (if part of a greater whole).
 ### SourceLink
 URI for the Source.
 ### Language
-Language of the item.
+Language of the item. Collection items in English.
 ### LanguageLink
 URI for the Language, LOC link for the ISO 639-2 vocabulary.
 ### Relation
-Related item, finding aid, material, or resource.
+Related item, finding aid, material, or resource if the item is related to another item in the collection.
 ### RelationLink
 URI or link to the Related item, finding aid, material, or resource.
 ### Rights
 Rights statement for the item.
+
+Statement in this collection: Material is believed to be in the public domain. However, other rights and restrictions may apply, such as privacy and publicity rights. User is responsible for compliance with all applicable laws. For information about copyright law, please see https://www.cusys.edu/DigitalLibrary/copyright.html.
+
+Copyright and other restrictions may apply. User is responsible for compliance with all applicable laws. For information about copyright law, please see https://www.cusys.edu/DigitalLibrary/copyright.html.
 ### RightsLink
 URI for the Rights statement.
 
