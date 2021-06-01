@@ -5,13 +5,11 @@ Theodore Dru Alison Cockerell (1866-1948), professor of zoology at the Universit
 Link to digital collection [here](https://doi.org/10.25810/cdcv-sb82).
 ## Metadata
 ### Collection Name
-Name of the collection.
+Name of the collection: Theodore Dru Alison Cockerell Papers
 ### Title
-Title of the work.
-###	TitleLink
-URI for the title. 
+Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 ### Creator
-Creator of the work.
+Individual(s) or corporate entities that created the work. Common creators seen in the collection include: Bassler, Ray S. (Ray Smith), 1878- , author; Needham, James G. (James George), 1868-1957, author; Wickham, H. F. (Henry Frederick), 1866-1933, author; Cockerell, Theodore D. A. (Theodore Dru Alison), 1866-1948, author
 ### CreatorLink
 URI for the Creator. 
 ### Publisher
