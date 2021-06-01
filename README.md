@@ -2,7 +2,7 @@
 ## Description
 Theodore Dru Alison Cockerell (1866-1948), professor of zoology at the University of Colorado from 1904 to 1934, was an internationally known naturalist who researched and published prolifically in zoology, botany, ecology, and paleontology. He is best known for his work on bees. This digital collection focuses on his field work at the Florissant Fossil Beds in Teller County, Colorado (now a National Monument), one of the world’s richest fossil deposits. Cockerell excavated at the site between 1906 and 1908 and collected thousands of specimens, nearly 2,000 of which are now held by the University of Colorado Boulder Museum of Natural History. Included in this digital collection are Cockerell’s research notes on species found at Florissant (including new species), letters from his colleagues pertaining to Florissant, lantern slide images of Florissant specimens, and a film showing ground bees nesting. Where possible, references to records in the Museum of Natural History’s Specify database are present. 
 
-DOI: https://doi.org/10.25810/cdcv-sb82
+Link to digital collection [here](https://doi.org/10.25810/cdcv-sb82).
 ## Metadata
 ### Collection Name
 Name of the collection.
