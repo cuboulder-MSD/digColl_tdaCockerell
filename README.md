@@ -74,7 +74,7 @@ Example: narv_cockerellFlorissant_001_019_001.pdf
 ### IdentifierLink
 Linking information for the Identifier.
 ### Identifier ARK
-ARK Identifier. [controlled, stable link]
+Controlled, stable link to the resource. 
 ### Identifier LUNA
 LUNA-specific URI.
 ### Source
