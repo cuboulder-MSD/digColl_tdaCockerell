@@ -10,7 +10,9 @@ Name of the collection: Theodore Dru Alison Cockerell Papers
 ### Title
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 ### Creator
-Individual(s) or corporate entities that created the work. Common creators seen in the collection include: Bassler, Ray S. (Ray Smith), 1878- , author; Needham, James G. (James George), 1868-1957, author; Wickham, H. F. (Henry Frederick), 1866-1933, author; Cockerell, Theodore D. A. (Theodore Dru Alison), 1866-1948, author
+Individual(s) or corporate entities that created the work. 
+
+Common creators seen in the collection include: [Bassler, Ray S. (Ray Smith), 1878-, author](http://id.loc.gov/authorities/names/n84119674); [Needham, James G. (James George), 1868-1957, author](http://id.loc.gov/authorities/names/n87816931); [Wickham, H. F. (Henry Frederick), 1866-1933, author](http://id.loc.gov/authorities/names/no2007090122); [Cockerell, Theodore D. A. (Theodore Dru Alison), 1866-1948, author](http://id.loc.gov/authorities/names/n88619263)
 ### CreatorLink
 URI for the Creator. 
 ### Publisher
@@ -33,26 +35,42 @@ Additional notes or description of the content of the item. May contain cataloge
 URI for the description.
 ### Date
 Date the item was created and issued.
+
+Dates ranges from the 1900s-1940s
 ### DateLink
 URI for the Date.
 ### Type
-DCMI Type of the item. Type terms for this collection include: Text; MovingImage
+DCMI Type of the item. 
+
+Type terms for this collection include: [Text](http://purl.org/dc/dcmitype/Text); [MovingImage](http://purl.org/dc/dcmitype/MovingImage)
 ### TypeLink
 URI for the DCMI Type.
 ### Format
-Format of the item, using the vocabulary of the [Getty Art & Architectural Thesaurus](http://vocab.getty.edu/aat). Format terms frequently seen in the collection include: letters (correspondence); motion pictures (visual works)
+Standard that indicates the nature and format of a document, file, or assortment of bytes. The [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/assignments/media-types/media-types.xhtml) is responsible for all official MIME. 
+
+Media type(s) in this collection: video/mp4; 
+
+Also, format of the item, using the vocabulary of the [Getty Art & Architectural Thesaurus](http://vocab.getty.edu/aat). 
+
+Format terms frequently seen in the collection include: [letters (correspondence)](http://vocab.getty.edu/aat/300026879); [motion pictures (visual works)](http://vocab.getty.edu/aat/300136900)
 ### FormatLink
 URI for the AAT Format.
 ### Coverage
-Geographic location(s) relevant to the item are listed and controlled. Some coverage terms used in the collection include: Florissant Fossil Beds National Monument (Colo.)
+Geographic location(s) relevant to the item are listed and controlled. 
+
+Common coverage terms used in the collection include: [Florissant Fossil Beds National Monument (Colo.)](http://id.loc.gov/authorities/subjects/sh2004003365); [Colorado--Boulder](http://id.worldcat.org/fast/1206092)
 ### CoverageLink
 URI for the Geographic location(s)
 ### Subject
-Library of Congress Subject Headings (LCSH) relevant to the item. Frequently used headings include: [Naturalists--Colorado](http://id.loc.gov/authorities/subjects/sh85090273); [Paleontology--Colorado--Teller County](http://id.loc.gov/authorities/subjects/sh85097123)
+Library of Congress Subject Headings (LCSH) relevant to the item. 
+
+Frequently used headings include: [Naturalists--Colorado](http://id.loc.gov/authorities/subjects/sh85090273); [Paleontology--Colorado--Teller County](http://id.loc.gov/authorities/subjects/sh85097123)
 ### SubjectLink
 URI for the LCSH.
 ### Identifier
-Identifier for the item. Typically the file name. Example: narv_cockerellFlorissant_001_019_001.pdf
+Identifier for the item. Typically the file name. 
+
+Example: narv_cockerellFlorissant_001_019_001.pdf
 ### IdentifierLink
 Linking information for the Identifier.
 ### Identifier ARK
@@ -72,11 +90,14 @@ Related item, finding aid, material, or resource if the item is related to anoth
 ### RelationLink
 URI or link to the Related item, finding aid, material, or resource.
 ### Rights
-Rights statement for the item.
+Rights statement for the item. Statements used in this collection: 
 
-Statement in this collection: Material is believed to be in the public domain. However, other rights and restrictions may apply, such as privacy and publicity rights. User is responsible for compliance with all applicable laws. For information about copyright law, please see https://www.cusys.edu/DigitalLibrary/copyright.html.
+This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s). http://rightsstatements.org/vocab/InC/1.0/
 
-Copyright and other restrictions may apply. User is responsible for compliance with all applicable laws. For information about copyright law, please see https://www.cusys.edu/DigitalLibrary/copyright.html.
+The organization that has made the Item available believes that the Item is in the Public Domain under the laws of the United States, but a determination was not made as to its copyright status under the copyright laws of other countries. The Item may not be in the Public Domain under the laws of other countries. Please refer to the organization that has made the Item available for more information. http://rightsstatements.org/vocab/NoC-US/1.0/
+
+The copyright and related rights status of this Item has been reviewed by the organization that has made the Item available, but the organization was unable to make a conclusive determination as to the copyright status of the Item. Please refer to the organization that has made the Item available for more information. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/
+
 ### RightsLink
 URI for the Rights statement.
 
