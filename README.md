@@ -48,7 +48,7 @@ URI for the DCMI Type.
 ### Format
 Standard that indicates the nature and format of a document, file, or assortment of bytes. The [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/assignments/media-types/media-types.xhtml) is responsible for all official MIME. 
 
-Media type(s) in this collection: video/mp4; application/pdf
+Media type(s) in this collection: [video/mp4](https://www.iana.org/assignments/media-types/application/mp4); [application/pdf](https://www.iana.org/assignments/media-types/application/pdf)
 
 Also, format of the item, using the vocabulary of the [Getty Art & Architectural Thesaurus](http://vocab.getty.edu/aat). 
 
