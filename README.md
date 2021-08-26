@@ -42,13 +42,13 @@ URI for the Date.
 ### Type
 DCMI Type of the item. 
 
-Type terms for this collection include: [Text](http://purl.org/dc/dcmitype/Text); [MovingImage](http://purl.org/dc/dcmitype/MovingImage)
+Type terms for this collection include: [Text](http://purl.org/dc/dcmitype/Text); [MovingImage](http://purl.org/dc/dcmitype/MovingImage); [StillImage](http://purl.org/dc/dcmitype/StillImage)
 ### TypeLink
 URI for the DCMI Type.
 ### Format
 Standard that indicates the nature and format of a document, file, or assortment of bytes. The [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/assignments/media-types/media-types.xhtml) is responsible for all official MIME. 
 
-Media type(s) in this collection: video/mp4; 
+Media type(s) in this collection: video/mp4; application/pdf
 
 Also, format of the item, using the vocabulary of the [Getty Art & Architectural Thesaurus](http://vocab.getty.edu/aat). 
 
