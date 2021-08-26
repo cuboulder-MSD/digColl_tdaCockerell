@@ -102,3 +102,5 @@ The copyright and related rights status of this Item has been reviewed by the or
 URI for the Rights statement.
 
 ## Notes
+
+[Global Biodiversity Information Facility](https://www.gbif.org/) used for scientific names and classifications seen in the metadata. Also, references to Cockerell's discoveries can be seen in this data repository when searching by scientific name.
